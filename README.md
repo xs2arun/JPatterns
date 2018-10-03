@@ -1,1 +1,1 @@
-# JPatterns
+# JavaPatterns
